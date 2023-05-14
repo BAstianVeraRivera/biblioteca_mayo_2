@@ -1,0 +1,3 @@
+1984,George Orwell,1949,Ficcion
+Harry Potter,J.K.Rowling,01/01/1997,Fantasia 
+Las brujas,Roald Dahl,03/07/1999,Fantasia
